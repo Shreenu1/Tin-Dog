@@ -1,4 +1,3 @@
-# Tin-Dog
 Tindog Website
 This website is a simple example of how to use CSS Flexbox and HTML to create a responsive layout. The website is designed for dog partners and includes basic information about dogs, tips on how to take care of them, and a contact form to get in touch with other dog owners.
 
@@ -17,4 +16,4 @@ A contact form to get in touch with other dog owners
 Links to external resources for dog owners
 A simple and easy-to-use interface
 Contributions
-Contributions to the project are welcome. If you find any bugs or issues, please feel free to report them on the GitHub issues page. If you would like to contribute code to the project, please fork the repository and submit a pull reque
+Contributions to the project are welcome. If you find any bugs or issues, please feel free to report them on the GitHub issues page. If you would like to contribute code to the project, please fork the repository and submit a pull request.
